@@ -1,0 +1,14 @@
+The dataset is taken from the National Geographic website. The National Geographic Society’s Perpetual Project has taken the challenge of examining Earth’s changing climate. 
+To achieve this, society has set up a network of automated weather stations around the world to collect data on weather patterns and other environmental factors. 
+One of the stations is located on the summit of Mt.Everest. 
+The National Geographic Society’s Perpetual Project set up a weather station on Mt. Everest at various altitudes, collecting meteorological information from the mountain. 
+Meteorological information includes temperature, pressure, windspeed and direction, precipitation, and solar radiation.
+
+There are six different CSV files in this weather data, each corresponding to a different altitude on the mountain. 
+The data is organized in the CSV files by date and contain hourly readings of various meteorological information including temperature, pressure, windspeed and direction, precipitation, and solar radiation. 
+PHORTSE (3,810 m), BASE CAMP (5,315 m), CAMP 2(6,464 m), SOUTH COL (7,945 m), BALCONY (8,430 m), and BISHOP ROCK (8,810 m). 
+These datasets provide valuable information on the weather conditions in the Everest region for research and analytical purposes. 
+This data can be utilized for weather prediction, climate change studies, and other applications in atmospheric science. 
+However, it should be noted that the dataset is limited to a specific time period and location, and thus, the findings may not be generalized to other regions or time periods.
+Below is the link to the dataset,
+https://www.nationalgeographic.org/projects/perpetual-planet/everest/weather-data/
